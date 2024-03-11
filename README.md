@@ -12,8 +12,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 ### The challenge
 
@@ -28,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-cyhVvtLVsR](https://www.frontendmentor.io/solutions/social-links-profile-cyhVvtLVsR)
+- Live Site URL: [https://oflik.github.io/social-links-profile/](https://oflik.github.io/social-links-profile/)
 
 ## My process
 
